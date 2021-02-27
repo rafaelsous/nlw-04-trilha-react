@@ -24,10 +24,12 @@
 }
 
 .countdownContainer > div span:first-child {
+  width: 5rem;
   border-right: 1px solid #f0f1f3;
 }
 
 .countdownContainer > div span:last-child {
+  width: 5rem;
   border-left: 1px solid #f0f1f3;
 }
 
