@@ -1,5 +1,7 @@
 import { useContext } from 'react';
+
 import { ChallengeContext } from '../contexts/ChallengeContext';
+
 import styles from '../styles/components/Profile.module.css';
 
 export function Profile() {
